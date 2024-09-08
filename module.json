@@ -11,7 +11,7 @@
     ],
     "compatibility": {
             "minimum": "10",
-            "maximum": "11",
+            "maximum": "12",
             "verified": "11.308"
     },
     "styles": [
